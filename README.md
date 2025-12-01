@@ -94,30 +94,33 @@ Fully structured backend:
 
 ## 📦 Installation & Setup
 
+
 ### 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/<your-username>/ChurnGuard.git
 cd ChurnGuard
-
+```
 
 2️⃣ Install dependencies
 
 If Python backend:
-
+```
 pip install -r requirements.txt
 
-
+```
 If frontend:
-
+```
 npm install
-
+```
 3️⃣ Run backend
+```
 python app.py
+```
 
 4️⃣ Run frontend
+```
 npm run dev
-'''
-
+```
 ## 📤 File Upload Format
 
 Your dataset should include these columns (minimum):
@@ -133,22 +136,22 @@ Your dataset should include these columns (minimum):
 
 
 
-🤝 Contributions
+##🤝 Contributions
 
 Pull requests are welcome!
 If you want new features like:
 
-📧 Email alerts for high-risk customers
+##📧 Email alerts for high-risk customers
 
-🔗 CRM integration
+##🔗 CRM integration
 
-🧠 Deep learning model
+##🧠 Deep learning model
 
-🕒 Scheduled auto-training
+##🕒 Scheduled auto-training
 
 Feel free to open an issue.
 
-📜 License
+###📜 License
 
 This project is licensed under the MIT License.
 
@@ -165,4 +168,6 @@ If you like ChurnGuard, don’t forget to:
 🙌 Credits
 
 Developed with ❤️ by Suhas M
+
+
 
