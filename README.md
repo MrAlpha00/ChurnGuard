@@ -3,6 +3,8 @@
 ChurnGuard is a complete end-to-end machine learning platform designed to **analyze customer churn, train prediction models, visualize insights, and generate actionable retention strategies** — all in one place.
 
 This system allows businesses to upload datasets, train ML models, view risk segmentation dashboards, and export results with ease.
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/1f82b041-7454-4684-b099-189a03330296" />
+
 
 ---
 
@@ -135,22 +137,22 @@ Your dataset should include these columns (minimum):
 
 
 
-
+---
 ##🤝 Contributions
 
 Pull requests are welcome!
 If you want new features like:
+---
+## 📧 Email alerts for high-risk customers
 
-##📧 Email alerts for high-risk customers
+## 🔗 CRM integration
 
-##🔗 CRM integration
+## 🧠 Deep learning model
 
-##🧠 Deep learning model
-
-##🕒 Scheduled auto-training
-
+## 🕒 Scheduled auto-training
+---
 Feel free to open an issue.
-
+---
 ###📜 License
 
 This project is licensed under the MIT License.
@@ -164,10 +166,10 @@ If you like ChurnGuard, don’t forget to:
 🍴 Fork it
 
 🔔 Follow for updates
-
+---
 🙌 Credits
 
 Developed with ❤️ by Suhas M
 
-
+---
 
